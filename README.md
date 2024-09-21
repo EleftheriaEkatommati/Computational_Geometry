@@ -8,19 +8,25 @@ This project implements and visualizes several algorithms in computational geome
 * **Gift Wrapping Algorithm:** Also known as the Jarvis march, this algorithm finds the convex hull by iteratively finding the next point on the hull by considering angles.
 * **Divide and Conquer Algorithm:** This algorithm recursively divides the set of points, computes the convex hull of each subset, and merges the results.
 * **Quickhull Algorithm:** A divide-and-conquer algorithm similar to quicksort, which partitions points based on their distance from a line.
+  
+![The plot of 120 points](Plot_1.png)
 
 **Part 2: Linear Programming**
 
 * **Incremental Linear Programming:** Solves a linear programming problem by incrementally adding constraints and finding the optimal solution.
+![The equation's lines](Plot_2.png)
 
 **Part 3: Voronoi Diagram and Delaunay Triangulation**
 
 * **Voronoi Diagram:**  A partitioning of a plane into regions based on the distance to points in a specific subset of the plane.
-* **Delaunay Triangulation:** A triangulation of a set of points where no point is inside the circumcircle of any triangle.
+![Voronoi Diagram](Plot_3.png)
 
+* **Delaunay Triangulation:** A triangulation of a set of points where no point is inside the circumcircle of any triangle.
+![Delaunay Triangulation](Plot_4.png)
 **Part 4: Range Tree**
 
 * **2D Range Tree:** A data structure used for efficient range queries on a set of points in two dimensions.
+![2D Range Tree](Plot_5.png)
 
 **Libraries Used**
 
