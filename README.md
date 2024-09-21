@@ -14,7 +14,7 @@ This project implements and visualizes several algorithms in computational geome
 **Part 2: Linear Programming**
 
 * **Incremental Linear Programming:** Solves a linear programming problem by incrementally adding constraints and finding the optimal solution.
-![The equation's lines](Plot_2(2).png)
+![The equation's lines](Plot_2.png)
 
 **Part 3: Voronoi Diagram and Delaunay Triangulation**
 
